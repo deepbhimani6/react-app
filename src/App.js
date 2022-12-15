@@ -6,10 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <a>hello world</a>
+        <a>hello react js</a>
       </header>
     </div>
   );
 }
-
 export default App;
